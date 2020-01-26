@@ -60,6 +60,7 @@
 				<directory>src/main/java/VamshiSpring/BoookingDemo2</directory>
 				<excludes>
 					<exclude>BookingController(old-np).java</exclude>
+					<exclude>HotelBooking(old-np).java</exclude>
 				</excludes>
 			</resource>
 		</resources>
